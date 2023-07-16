@@ -12,10 +12,10 @@ yarn dev
 pnpm dev
 ```
 
-```
+
 - Next create a .env file in current directory. It should contain the following information.
 ```bash
-MONGODB_URI= ' 
+MONGODB_URI= ' '
 MONGODB_DB =test
 GOOGLE_CLIENT_ID=  ' '
 GOOGLE_CLIENT_SECRET=' '
