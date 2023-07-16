@@ -20,11 +20,9 @@ pnpm dev
   GOOGLE_CLIENT_ID=  ' '
   GOOGLE_CLIENT_SECRET=' '
   JWT_SECRET=' '
-  NEWS_API_KEY = ' '
-  
+  NEWS_API_KEY = ' 
   NEXTAUTH_URL=http://localhost:3000
   NODE_ENV = development
-  
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
