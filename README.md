@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 - `git clone [<this_url>](https://github.com/lisa1501/LinkedIn-Clone.git) && cd LinkedIn-Clone`
-First, install and run the development server:
+
+-First, install and run the development server:
 
 ```bash
 npm install
