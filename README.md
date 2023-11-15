@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-- `git clone <this_url> && cd <repo_name>`
+- `git clone [<this_url>](https://github.com/lisa1501/LinkedIn-Clone.git) && cd LinkedIn-Clone`
 First, install and run the development server:
 
 ```bash
