@@ -18,12 +18,12 @@ pnpm dev
 
 - Next create a .env file in current directory. It should contain the following information.
 ```bash
-MONGODB_URI= ' '
+MONGODB_URI= 
 MONGODB_DB =test
-GOOGLE_CLIENT_ID=  ' '
-GOOGLE_CLIENT_SECRET=' '
-JWT_SECRET=' '
-NEWS_API_KEY = ' 
+GOOGLE_CLIENT_ID=  
+GOOGLE_CLIENT_SECRET=
+JWT_SECRET=
+NEWS_API_KEY = 
 NEXTAUTH_URL=http://localhost:3000
 NODE_ENV = development
 ```
